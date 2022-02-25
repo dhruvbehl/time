@@ -1,0 +1,7 @@
+GET http://localhost:8000/api/time?tz=America/New_York,Asia/Kolkata
+
+###
+GET http://localhost:8000/api/time?tz=America/New_York
+
+###
+GET http://localhost:8000/api/time
